@@ -29,3 +29,8 @@ Make sure you have Python installed. You can run each file individually from the
 
 ```bash
 python 1.py_if_else.py
+python 2.python_arithmetic_operators.py
+python 3.compress_the_string.py
+...
+python 10.python_string_formatting.py
+
